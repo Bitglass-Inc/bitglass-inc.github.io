@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+In a world of applications and mobile devices, IT must secure data that resides on third-party servers and travels over third-party networks to employee-owned mobile devices. Existing security technologies are simply not suited to solving this task, since they are developed to secure the corporate network perimeter. Bitglass is a Cloud Access Security Broker that delivers innovative technologies that transcend the network perimeter to deliver total data protection for the enterprise - in the cloud, on mobile devices and anywhere on the internet.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Bitglass was founded in 2013 by a team of industry veterans with a proven track record of innovation and execution. Bitglass is based in Silicon Valley and backed by venture capital from NEA, Norwest and Singtel Innov8.
